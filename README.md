@@ -19,6 +19,8 @@ Run the python program in terminal to get the output.
 Number of words in the txt file is displayed as the output.
 ## PROGRAM:
 ```
+#DEVELOPED BY: Laakshit D
+#REGISTER NO: 22000680
 num_words = 0
 with open('test1.txt','r') as file1:
     for i in file1:
